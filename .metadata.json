@@ -1,5 +1,13 @@
 [
   {
+    "package": "dfadjust",
+    "oncran": true
+  },
+  {
+    "package": "ebci",
+    "oncran": true
+  },
+  {
     "package": "ShiftShareSE",
     "oncran": true
   }
