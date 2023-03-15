@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dfadjust"]
-	path = dfadjust
-	url = https://github.com/kolesarm/robust-small-sample-standard-errors
-	shallow = true
-	registered = true
 [submodule "ebci"]
 	path = ebci
 	url = https://github.com/kolesarm/ebci
@@ -16,5 +11,10 @@
 [submodule "ShiftShareSE"]
 	path = ShiftShareSE
 	url = https://github.com/kolesarm/shiftsharese
+	shallow = true
+	registered = true
+[submodule "dfadjust"]
+	path = dfadjust
+	url = https://github.com/kolesarm/robust-small-sample-standard-errors
 	shallow = true
 	registered = true
