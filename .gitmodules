@@ -11,3 +11,6 @@
 [submodule "ebci"]
 	path = ebci
 	url = https://github.com/kolesarm/ebci
+[submodule "multe"]
+	path = multe
+	url = https://github.com/kolesarm/multe
