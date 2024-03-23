@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RDHonest"]
+	path = RDHonest
+	url = https://github.com/kolesarm/rdhonest
 [submodule "ShiftShareSE"]
 	path = ShiftShareSE
 	url = https://github.com/kolesarm/shiftsharese
